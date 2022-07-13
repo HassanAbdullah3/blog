@@ -1,0 +1,4 @@
+[submodule "hassanabdullahblog/public"]
+	path = hassanabdullahblog/public
+	url = https://github.com/HassanAbdullah3/hassanabdullah3.github.io/
+	branch = main

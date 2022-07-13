@@ -1,0 +1,7 @@
+baseURL = 'https://hassanabdullah3.github.io/'
+languageCode = 'ar'
+languagedirection = 'rtl'
+title = 'مدونة حسن عبدالله'
+theme='LoveIt'
+copyright = 'Everything is mine'
+defaultContentLanguage = 'ar'
