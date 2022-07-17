@@ -12,3 +12,5 @@ date: 2022-07-13T11:38:44+03:00
 - الخطووة الثالثة 
 
 - الخطوة الرابعة
+
+![Tree picture for testing purposes](/tree.png)
